@@ -1,0 +1,24 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    float a, b, c;
+    cout << "Zadejte cislo a: ";
+    cin >> a;
+    cout << "Zadejte cislo b: ";
+    cin >> b;
+    cout << "Zadejte cislo c: ";
+    cin >> c;
+    
+    system("cls");
+
+    float obsah = (a+b+c)/2;
+
+    cout << obsah << endl;
+
+    system("PAUSE");
+
+    return 0;
+}
