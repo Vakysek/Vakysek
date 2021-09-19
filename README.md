@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vakysek
 - 👀 I’m interested in programing and game developing
-- 🌱 I’m currently learning c++ and c#
+- 🌱 I’m currently learning Unity
 
 <!---
 Vakysek/Vakysek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
